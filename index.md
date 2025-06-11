@@ -2,22 +2,12 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-# layout: single
-# author_profile: true
----
-
 layout: single
-# title: "Resume"
-# permalink: /resume/
 author_profile: true
 ---
 
 # Resume - Teresa Kemuma Omosa
 
-# **Email:** [kemumatriza7@gmail.com](mailto:kemumatriza7@gmail.com)  
-# **Phone:** +254 790 588 851  
-# **GitHub:** [github.com/trizkemmah](https://github.com/trizkemmah)  
-# **LinkedIn:** [linkedin.com/in/teresa-kemuma](https://www.linkedin.com/in/teresa-kemuma)
 
 ---
 
