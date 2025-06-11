@@ -1,7 +1,7 @@
 
 ---
-layout: labchallenges
-title: "LabChallenges"
+layout: single
+title: "Lab Challenges"
 permalink: /labchallenges/
 author_profile: true
 ---
@@ -72,4 +72,4 @@ Captured HTTP requests using Burp Suite, examined header information, and replay
 
 ---
 
-You can find more of my lab walkthroughs and projects in the [Projects](/projects) section or on my [GitHub](https://github.com/trizkemmah).
+
