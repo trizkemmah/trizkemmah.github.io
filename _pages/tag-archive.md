@@ -1,8 +1,8 @@
 
 ---
-layout: single
-title: "Lab Challenges"
-permalink: /labs/
+layout: labchallenges
+title: "LabChallenges"
+permalink: /labchallenges/
 author_profile: true
 ---
 
