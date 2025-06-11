@@ -59,8 +59,8 @@ author:
   name   : "Teresa Kemuma"
   avatar : "/assets/images/PASSPORT TERESA.jpg"
   bio    : "Computer Scientist | Cybersecurity Enthusiast | IT Support Specialist."
-  Email : "kemumatriza7@gmail.com"
-  Phone : "+254790588851"
+  email : "kemumatriza7@gmail.com"
+ phone : "+254790588851"
  # links:
     #- label: "Website"
      # icon: "fas fa-fw fa-link"
